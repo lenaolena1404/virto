@@ -1,9 +1,9 @@
-{
-  "erpQuoteNumber": "quote12345",
-  "companyId": "1261",
-  "contactId": "CT1203583",
-  "total": 12.34,
-  " dateIssued": "2021-01-01"
-  "expirationDate": "2022-07-01",
-  "pdfUrl": ""
-}
+"QuoteCreated": {
+        "erpQuoteNumber": "quote12345",
+        "companyId": "1261",
+        "contactId": "CT1203583",
+        "total": 13457,
+        "dateIssued": "2022-04-29",
+        "expirationDate": "2022-07-29",
+        "pdfUrl": "https://google.com"
+    }
