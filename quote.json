@@ -1,0 +1,9 @@
+{
+  "erpQuoteNumber": "quote12345",
+  "companyId": "1261",
+  "contactId": "CT1203583",
+  "total": 12.34,
+  " dateIssued": "2021-01-01"
+  "expirationDate": "2022-07-01",
+  "pdfUrl": ""
+}
